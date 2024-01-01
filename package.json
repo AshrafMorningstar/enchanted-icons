@@ -1,0 +1,116 @@
+{
+  "name": "enchanted-icons",
+  "displayName": "Enchanted Icons",
+  "description": "✨ A magical, vibrant icon theme for VS Code with Mystic, Aurora, Twilight, and Ember variants",
+  "version": "1.0.0",
+  "publisher": "AshrafMorningstar",
+  "author": "AshrafMorningstar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshrafMorningstar/enchanted-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AshrafMorningstar/enchanted-icons/issues"
+  },
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "file-icons",
+    "folder-icons",
+    "colorful",
+    "vibrant",
+    "magical",
+    "enchanted",
+    "mystic",
+    "aurora"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#2c213b",
+    "theme": "dark"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "enchanted-mystic",
+        "label": "Enchanted Icons (Mystic)",
+        "path": "./themes/enchanted-mystic.json"
+      },
+      {
+        "id": "enchanted-aurora",
+        "label": "Enchanted Icons (Aurora)",
+        "path": "./themes/enchanted-aurora.json"
+      },
+      {
+        "id": "enchanted-twilight",
+        "label": "Enchanted Icons (Twilight)",
+        "path": "./themes/enchanted-twilight.json"
+      },
+      {
+        "id": "enchanted-ember",
+        "label": "Enchanted Icons (Ember)",
+        "path": "./themes/enchanted-ember.json"
+      }
+    ],
+    "configuration": {
+      "title": "Enchanted Icons",
+      "properties": {
+        "enchanted-icons.hidesExplorerArrows": {
+          "type": "boolean",
+          "default": false,
+          "description": "Set to true to disable folding arrows next to folder icons."
+        },
+        "enchanted-icons.outlinedFolders": {
+          "type": "string",
+          "default": "when-expanded",
+          "enum": [
+            "when-expanded",
+            "always",
+            "never"
+          ],
+          "enumDescriptions": [
+            "Use outlined folder icons when the folder is expanded",
+            "Always use outlined folder icons",
+            "Always use filled folder icons"
+          ],
+          "description": "Configure when to use outlined folder icons."
+        },
+        "enchanted-icons.associations.languages": {
+          "type": "object",
+          "default": {},
+          "description": "Custom icon associations for language IDs."
+        },
+        "enchanted-icons.associations.extensions": {
+          "type": "object",
+          "default": {},
+          "description": "Custom icon associations for file extensions."
+        },
+        "enchanted-icons.associations.files": {
+          "type": "object",
+          "default": {},
+          "description": "Custom icon associations for specific file names."
+        },
+        "enchanted-icons.associations.folders": {
+          "type": "object",
+          "default": {},
+          "description": "Custom icon associations for folder names."
+        }
+      }
+    }
+  },
+  "scripts": {
+    "package": "vsce package --no-yarn"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.22.0"
+  },
+  "homepage": "https://github.com/AshrafMorningstar/enchanted-icons#readme"
+}
