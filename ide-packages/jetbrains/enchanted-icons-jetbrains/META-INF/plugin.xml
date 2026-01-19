@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>com.enchanted.icons</id>
+  <name>Enchanted Icons</name>
+  <version>1.0.0</version>
+  <vendor email="support@enchanted.dev" url="https://github.com/AshrafMorningstar/EnchantedIcons">Enchanted</vendor>
+
+  <description><![CDATA[
+    ✨ Magical, vibrant icon theme for JetBrains IDEs with 1,600+ language support.
+    
+    Features:
+    - 6,584 unique icons across 4 magical variants (Mystic, Aurora, Twilight, Ember)
+    - Comprehensive language coverage (1,600+ programming languages)
+    - Beautiful, consistent design
+    - Optimized for all JetBrains IDEs
+  ]]></description>
+
+  <change-notes><![CDATA[
+    <h2>1.0.0</h2>
+    <ul>
+      <li>Initial release</li>
+      <li>1,600+ language icons</li>
+      <li>4 magical color variants</li>
+    </ul>
+  ]]></change-notes>
+
+  <idea-version since-build="213.0"/>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <iconMapper mappingFile="EnchantedIconMappings.json"/>
+  </extensions>
+</idea-plugin>

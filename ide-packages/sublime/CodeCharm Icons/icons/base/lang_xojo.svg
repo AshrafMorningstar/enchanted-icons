@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <path fill="#45B7D1" d="M20 2H8C6.9 2 6 2.9 6 4V28C6 29.1 6.9 30 8 30H24C25.1 30 26 29.1 26 28V8L20 2Z" opacity="0.2"/>
+  <path fill="none" stroke="#45B7D1" stroke-width="2" stroke-linejoin="round" d="M20 2H8C6.9 2 6 2.9 6 4V28C6 29.1 6.9 30 8 30H24C25.1 30 26 29.1 26 28V8L20 2Z M20 2V8H26"/>
+  <text x="16" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#45B7D1" text-anchor="middle" dominant-baseline="middle">XO</text>
+</svg>

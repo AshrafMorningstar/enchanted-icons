@@ -1,0 +1,10 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+.git/**
+*.md
+!README.md
+!CHANGELOG.md
+node_modules/**
+.DS_Store
+*.vsix

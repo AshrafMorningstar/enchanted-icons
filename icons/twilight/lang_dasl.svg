@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <circle cx="16" cy="16" r="14" fill="#C4CED4" fill-opacity="0.15" />
+  <circle cx="16" cy="16" r="12" fill="none" stroke="#C4CED4" stroke-width="2" stroke-opacity="0.8" />
+  <text x="16" y="21" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="bold" fill="#C4CED4" text-anchor="middle">DA</text>
+</svg>

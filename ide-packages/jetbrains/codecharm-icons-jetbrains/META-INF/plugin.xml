@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>com.codecharm.icons</id>
+  <name>CodeCharm Icons</name>
+  <version>1.0.0</version>
+  <vendor email="support@codecharm.com" url="https://github.com/admin/codecharm-icons">CodeCharm</vendor>
+
+  <description><![CDATA[
+    💝 Charming, vibrant icon theme for JetBrains IDEs with 1,600+ language support.
+    
+    Features:
+    - 6,584 unique icons across 4 color variants (Base, Light, Soft, Warm)
+    - Comprehensive language coverage (1,600+ programming languages)
+    - Beautiful, consistent design
+    - Optimized for all JetBrains IDEs
+  ]]></description>
+
+  <change-notes><![CDATA[
+    <h2>1.0.0</h2>
+    <ul>
+      <li>Initial release</li>
+      <li>1,600+ language icons</li>
+      <li>4 color variants</li>
+    </ul>
+  ]]></change-notes>
+
+  <idea-version since-build="213.0"/>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <iconMapper mappingFile="CodeCharmIconMappings.json"/>
+  </extensions>
+</idea-plugin>

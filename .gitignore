@@ -1,0 +1,14 @@
+node_modules/
+*.vsix
+.DS_Store
+dist/
+out/
+*.log
+
+viral_backdate_icons.js
+
+viral_backdate_icons.js
+
+viral_backdate_icons.js
+
+viral_backdate_icons.js

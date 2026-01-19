@@ -1,0 +1,8 @@
+{
+  "name": "CodeCharm Icons",
+  "description": "💝 Charming icon theme with 1,600+ language support",
+  "author": "Admin",
+  "homepage": "https://github.com/admin/codecharm-icons",
+  "version": "1.0.0",
+  "sublime_text": ">=3000"
+}

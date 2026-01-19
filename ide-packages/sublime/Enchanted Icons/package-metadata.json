@@ -1,0 +1,8 @@
+{
+  "name": "Enchanted Icons",
+  "description": "✨ Magical icon theme with 1,600+ language support",
+  "author": "AshrafMorningstar",
+  "homepage": "https://github.com/AshrafMorningstar/EnchantedIcons",
+  "version": "1.0.0",
+  "sublime_text": ">=3000"
+}

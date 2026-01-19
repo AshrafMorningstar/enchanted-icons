@@ -1,0 +1,1029 @@
+{
+  "name": "CodeCharm Icons",
+  "author": "Admin",
+  "variables": {},
+  "rules": [
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.c"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/c.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.h"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/c.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.cpp"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/cpp.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.cc"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/cpp.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.cxx"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/cpp.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.hpp"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/cpp.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.hxx"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/cpp.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.css"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/css.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.dart"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/dart.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.dockerfile"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/docker.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.gitignore"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/git.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.gitattributes"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/git.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.go"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/go.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.html"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/html.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.htm"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/html.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.java"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/java.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.js"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.jsx"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.mjs"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.cjs"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.json"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/json.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.kt"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/kotlin.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.kts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/kotlin.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.c"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_c.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.h"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_c.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.dart"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_dart.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.go"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_go.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.java"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_java.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.js"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.jsx"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.mjs"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.cjs"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.kt"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_kotlin.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.kts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_kotlin.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.lua"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_lua.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.luau"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_luau.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.php"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_php.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.ps1"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_powershell.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.py"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_python.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.pyw"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_python.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.pyi"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_python.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.rb"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_ruby.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.rs"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_rust.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.sql"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_sql.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.swift"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_swift.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.ts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.tsx"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.mts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.cts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.xml"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lang_xml.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.lua"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/lua.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.luau"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/luau.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.md"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/markdown.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.php"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/php.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.ps1"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/powershell.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.py"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/python.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.pyw"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/python.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.pyi"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/python.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.rb"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/ruby.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.rs"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/rust.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.scss"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/scss.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.sass"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/scss.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.sh"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/shell.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.bash"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/shell.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.zsh"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/shell.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.swift"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/swift.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.ts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.tsx"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.mts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.cts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.xml"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/xml.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.yaml"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/yaml.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.yml"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/CodeCharm Icons/icons/base/yaml.svg"
+      }
+    }
+  ]
+}
