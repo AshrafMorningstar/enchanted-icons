@@ -2,5 +2,384 @@
   "name": "Enchanted Icons",
   "author": "AshrafMorningstar",
   "variables": {},
-  "rules": []
+  "rules": [
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.c"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_c.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.h"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_c.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.dart"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_dart.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.go"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_go.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.java"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_java.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.js"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.jsx"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.mjs"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.cjs"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_javascript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.kt"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_kotlin.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.kts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_kotlin.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.lua"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_lua.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.luau"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_luau.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.php"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_php.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.ps1"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_powershell.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.py"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_python.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.pyw"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_python.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.pyi"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_python.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.rb"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_ruby.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.rs"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_rust.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.sql"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_sql.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.swift"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_swift.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.ts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.tsx"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.mts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.cts"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_typescript.svg"
+      }
+    },
+    {
+      "class": "icon_file_type",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "*.xml"
+          ]
+        }
+      ],
+      "layer0": {
+        "texture": "Packages/Enchanted Icons/icons/mystic/lang_xml.svg"
+      }
+    }
+  ]
 }
